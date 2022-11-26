@@ -11,6 +11,5 @@ func bazz() {
 }
 
 func main() {
-	bazz()
 	fmt.Println("Hello world!", "TEST TEST")
 }
